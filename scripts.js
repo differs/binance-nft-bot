@@ -1,5 +1,5 @@
 // [Settings] //
-const shouldClickMax = false; // Should we buy max amount of NFT clicking to "Max" button
+const shouldClickMax = true; // Should we buy max amount of NFT clicking to "Max" button
 const MAX_BUTTON_TIMEOUT = 2;
 const BUY_BUTTON_TIMEOUT = 6;
 const SUBMIT_BUTTON_TIMEOUT = 8;
