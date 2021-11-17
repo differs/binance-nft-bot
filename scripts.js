@@ -55,7 +55,7 @@ const checkBuyButton = (label) => {
 
 // Defines Submit Button
 const checkSubmitButton = (label) => {
-    const searchLabel = label || `Submit`;
+    const searchLabel = label || `Confirm`;
 
     return checkButton(searchLabel);
 }
